@@ -4,7 +4,7 @@ Hi👋
 
 Here are TJU beamer template which are secondary creations of [Zhuming Shi]((https://www.overleaf.com/latex/templates/sintef-presentation/jhbhdffczpnx)) template.
 
-The template has been submitted to 
+The template has been submitted to [Overleaf](https://www.overleaf.com/latex/templates/tian-da-zhong-wen-mo-ban-tju-beamer-template/dvgvqcmxshfz)
 
 Below shows some examples:
 
